@@ -20,7 +20,7 @@ This report answers questions like:
 ## 📁 Files in This Folder
 
 - `Data Professionals Survey Dashboard.pbix`: Power BI dashboard file
-- `screenshot.png`: A preview of the report design
+- `Screenshot.png`: A preview of the report design
 
 ---
 
@@ -36,7 +36,7 @@ This report answers questions like:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](D:MERCYBUNDI\OneDrive\Desktop\Power BI\Screenshot.png)
+[Dashboard Screenshot](Screenshot.png)
 
 ---
 
@@ -53,7 +53,7 @@ This report answers questions like:
 ## 🔗 Back to Repository
 
 Return to the main collection of Power BI projects:  
-[🔙 Power BI Projects Repository](../)
+[🔙 Power BI Repository](../)
 
 ---
 
@@ -62,7 +62,7 @@ Return to the main collection of Power BI projects:
 I'd love to hear your thoughts, feedback, or opportunities to collaborate.
 
 📧 [bundimercy5@gmail.com]  
-💼 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+💼 [LinkedIn Profile](www.linkedin.com/in/mercy-bundi-5931961b8)
 
 ---
 
