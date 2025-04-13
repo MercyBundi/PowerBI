@@ -36,7 +36,7 @@ This report answers questions like:
 
 ## 📷 Dashboard Preview
 
-[Dashboard Screenshot](Screenshot.png)
+![Dashboard Screenshot](Screenshot.png)
 
 ---
 
