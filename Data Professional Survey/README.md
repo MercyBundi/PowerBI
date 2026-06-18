@@ -61,7 +61,6 @@ Return to the main collection of Power BI projects:
 
 I'd love to hear your thoughts, feedback, or opportunities to collaborate.
 
-📧 [bundimercy5@gmail.com]  
 💼 [LinkedIn Profile](www.linkedin.com/in/mercy-bundi-5931961b8)
 
 ---
