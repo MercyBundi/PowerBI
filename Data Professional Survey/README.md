@@ -53,7 +53,7 @@ This report answers questions like:
 ## 🔗 Back to Repository
 
 Return to the main collection of Power BI projects:  
-[🔙 Power BI Repository](https://github.com/MercyBundi/PowerBI/edit/main)
+[🔙 Power BI Repository](https://github.com/MercyBundi/PowerBI/tree/main)
 
 ---
 
